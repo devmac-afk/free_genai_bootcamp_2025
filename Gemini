@@ -1,0 +1,76 @@
+## Learn Sanskrit with Gemini: A Personalized Translation Exercise
+
+Welcome to your Sanskrit learning journey! This exercise will guide you through translating *your own* English sentences into Sanskrit, step-by-step.  Instead of just giving you the answer, we'll empower you to discover it yourself. Think of it as a puzzle where you have all the pieces, and we'll show you how they fit together.
+
+**Here's how it works:**
+
+1.  **Your Sentence:**  Provide the English sentence *you* want to translate.
+2.  **Word Breakdown:** We'll give you the Sanskrit root words (dhatu) and their corresponding meanings.
+3.  **Grammar Hints:** We'll highlight the grammatical cases (vibhakti) and verb conjugations (lakara) needed.
+4.  **Structured Guidance:** We'll present a sentence structure with blanks for you to fill, like a template.
+5.  **Interactive Analysis:** We'll offer prompts and questions to guide your thought process, making the learning more engaging.
+6.  **Solution (After you try!):** Only after you've attempted the translation will we reveal the complete Sanskrit sentence, Romanized transliteration (IAST) in a table format, and a detailed explanation.
+
+**Let's begin!**
+
+**Step 1: Your Sentence**
+
+Please enter the English sentence you would like to translate into Sanskrit:
+
+**(User Input Here)**
+
+---
+**(After the user provides a sentence, continue with the following.  Example using "The children are playing with toys.")**
+---
+
+**Example User Sentence:** The children are playing with toys.
+
+**Step 2: Identify Key Words (Root Words)**
+
+*   Children → बालक (bālaka) (plural: बालकाः bālakāḥ)
+*   Play → क्रीड् (krīḍ) (root verb - to play)
+*   With → सह (saha) (or using instrumental case)
+*   Toys → क्रीडनक (krīḍanaka) (plural: क्रीडनकानि krīḍanakāni)
+
+**Step 3: Grammar Breakdown**
+
+*   Subject (Nominative Case, Plural, Masculine) → बालकाः (bālakāḥ)
+*   Preposition (Instrumental Case, Plural, Neuter) → क्रीडनकैः (krīḍanakaiḥ) (using instrumental with "with")
+*   Verb (Third-Person Plural, Present Tense) → क्रीडन्ति (krīḍanti)
+
+**Step 4: Sentence Structure (Fill in the Blanks)**
+
+___ (Nominative, Plural, Masculine) ___ (Instrumental, Plural, Neuter) ___ (Verb, Third Person Plural, Present Tense).
+
+**Step 5: Guide for Analysis (Interactive Prompts)**
+
+*   **For the Noun "Children":** "बालक" is masculine.  You have the plural form "बालकाः". Is this already in the correct nominative plural form?
+*   **For the Noun "Toys":** "क्रीडनक" is neuter.  Since they are used "with" which case is appropriate? (Hint: Instrumental case). What will be the plural form of क्रीडनक?
+*   **For the Verb "Play":** The root verb is "क्रीड्". We need the third-person *plural* present tense form. Do you remember the rules for conjugating verbs in the present tense (लट् लकार)?  How does the verb ending change for a *plural* subject?
+*   **Word Order:** Sanskrit generally follows Subject-Object-Verb (SOV) order.  Place the words in the correct sequence. The preposition "सह" can come before or after the instrumental noun.
+
+**Think carefully and try to fill in the blanks. Don't worry if you make mistakes – that's how we learn! Once you've given it your best shot, reveal the solution below.**
+
+---
+**(Reveal Solution after the user attempts)**
+---
+
+**Sanskrit Sentence:** बालकाः क्रीडनकैः क्रीडन्ति। (bālakāḥ krīḍanakaiḥ krīḍanti।)  or बालकाः क्रीडन्ति क्रीडनकैः। (bālakāḥ krīḍanti krīḍanakaiḥ।)
+
+**Romanized Transliteration (IAST) and Explanation:**
+
+| Sanskrit Word        | IAST                 | Meaning                      | Grammatical Function                                   |
+| --------------------- | -------------------- | ---------------------------- | ----------------------------------------------------- |
+| बालकाः               | bālakāḥ             | Children                     | Nominative Plural (Subject)                              |
+| क्रीडनकैः            | krīḍanakaiḥ          | With toys                    | Instrumental Plural                                       |
+| क्रीडन्ति             | krīḍanti             | Are playing                  | Third Person Plural Present Tense (Verb)                  |
+
+**Detailed Explanation:**
+
+*   **बालकाः (bālakāḥ):** Nominative plural form of "बालक" (boy/child).
+*   **क्रीडनकैः (krīḍanakaiḥ):** Instrumental plural form of "क्रीडनक" (toy).
+*   **क्रीडन्ति (krīḍanti):** Third-person plural present tense form of the verb "क्रीड्" (krīḍ - to play).
+
+**Bonus Tip:** Notice how the verb ending changes to agree with the plural subject. Also note that "सह" can be used with instrumental case or alone after the instrumental noun.
+
+**Ready for your next challenge? Provide another sentence!**
